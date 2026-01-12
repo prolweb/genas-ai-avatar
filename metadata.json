@@ -1,0 +1,8 @@
+{
+  "name": "AvatarFlow AI",
+  "description": "Uma plataforma avançada para criação de avatares falantes usando IA, integrando tecnologias de ponta para síntese de voz e geração de vídeo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
